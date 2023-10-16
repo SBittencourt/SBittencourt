@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2 align=center> Olá! Me chamo Silmara Bittencourt!</h2>
 
-<!--
-**SBittencourt/SBittencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando desenvolvimento de software multiplataforma na FATEC-SJC
+- 😄 Ela/dela
+- ⚡ Buscando aprender sobre React, JS e TS.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:inline-block">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBittencourt&hide=stars,prs,icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBittencourt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
+
+
