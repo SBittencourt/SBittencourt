@@ -6,7 +6,7 @@
 
 <br>
 
-<div style="display:inline-block">
+<div align="center">
 
 <img height=180cm src="https://github-readme-stats.vercel.app/api?username=SBittencourt&hide=stars,prs,icons=true&theme=dracula">
 <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBittencourt&theme=dracula">
@@ -21,6 +21,13 @@
   <img align="center" alt="Silmara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Silmara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+<div align="center"><br>
+  <a href = "mailto:silmarabittencourt13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/silmara-in%C3%AAs-bittencourt-da-costa-243478214?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
   
 
 
