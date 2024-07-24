@@ -1,8 +1,9 @@
 <h2 align=center> Olá! Me chamo Silmara Bittencourt!</h2>
 
 - 🌱 Estudando desenvolvimento de software multiplataforma na FATEC-SJC
-- 😄 Ela/dela
-- ⚡ Buscando aprender sobre React, JS e TS.
+  
+- Costumo trabalhar com prototipação(figma), front-end(react, html e css) e banco de dados(Mysql e NOsql).
+- Buscando aprender mais sobre Java, JavaScript e TypeScript.
 
 <br>
 
