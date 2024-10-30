@@ -4,6 +4,7 @@
   
 - Costumo trabalhar com prototipação(figma), front-end(react, html e css) e banco de dados(Mysql e NOsql).
 - Buscando aprender mais sobre Java, JavaScript e TypeScript.
+- Programadora com PHP e Laravel.
 
 <br>
 
